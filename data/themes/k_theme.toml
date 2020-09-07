@@ -1,0 +1,18 @@
+# Theme metadata
+name = "k_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#f05457"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#f05457"
+menu_title = "#f05457"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "#f8eff1"
